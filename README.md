@@ -13,6 +13,10 @@ If you're interested in my writing, check out my [blog](https://electricocean.io
 4. Hindsight is 10/20. A single moment: past, present, or future cannot be seen for what it truly is. Only by combining a multitude of perspectives can we get _close_ to perfect vision. Never stop trying to improve your vision.
 5. Pessimists complain about the future. Optimists build it. Be optimistic.
 
+## Decision Making
+An XKCD favorite of mine that describes the tradeoffs between automating and brute force. Both are appropriate with different situations. I often apply this type of chart to justify spending a lot of time on an engineering product. I also use it to hack around and take shortcuts.
+![](./assets/is_it_worth_the_time.png)
+
 ## Organizational Tools
 
 - [Omnifocus](https://www.omnigroup.com/omnifocus/) - A tool born out of the necessity of managing multiple people & projects
